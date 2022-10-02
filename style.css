@@ -136,6 +136,22 @@
   position: absolute;
   z-index: -3;
 }
+.saatici {
+  height: 25px;
+  width: 80px;
+  background-color: black;
+  color: white;
+}
+.saatici_dk {
+  height: 15px;
+  width: 80px;
+  background-color: yellow;
+}
+.saatici_sn {
+  height: 4px;
+  width: 80px;
+  background-color: whitesmoke;
+}
 .digital {
   width: 500px;
   height: 500px;
