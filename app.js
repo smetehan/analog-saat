@@ -25,6 +25,9 @@ function analog() {
   if (dk < 10) {
     dk = `0${dk}`;
   }
+    if (sa < 10) {
+    sa = `0${sa}`;
+  }
 
   if (sa > 12) {
     let saDeg = (sa - 12) * 30 + 90;
