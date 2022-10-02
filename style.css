@@ -145,7 +145,7 @@
   background-color: black;
   position: absolute;
   right: 49%;
-  bottom: 71%;
+  bottom: 65%;
 }
 .tarih {
   border: 1px solid black;
@@ -154,7 +154,7 @@
   font-family: "Bungee Spice", cursive;
   position: absolute;
   right: 43%;
-  bottom: 55%;
+  bottom: 48%;
   border-radius: 10px;
   background-color: aqua;
   opacity: 0.9;
